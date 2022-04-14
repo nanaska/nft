@@ -8,13 +8,13 @@ export default function Hero() {
             <div className="container">
                 <nav className="flex  justify-between items-center pt-7">
                     <Link href="/">
-                        <h1 className="text-white font-bold text-4xl">Eller NFT</h1>
+                        <h1 className="text-white font-bold text-4xl ">Eller NFT</h1>
                     </Link>
-                    <ul className="flex gap-[91px] md:hidden">
+                    <ul className="flex gap-[74px] md:hidden">
                         <li>
                             <Link href="/">
                   <span
-                      className="font-medium text-[18px] text-white select-none lg:text-base hover:text-darkred transition-colors">
+                      className="font-medium text-[18px] text-white select-none lg:text-base hover:text-[#EFAC00] transition-colors">
                     Главная
                   </span>
                             </Link>
@@ -22,7 +22,7 @@ export default function Hero() {
                         <li>
                             <Link href="/">
                   <span
-                      className="font-medium text-[18px] text-white select-none lg:text-base hover:text-darkred transition-colors">
+                      className="font-medium text-[18px] text-white select-none lg:text-base hover:text-[#EFAC00] transition-colors">
                     Услуги
                   </span>
                             </Link>
@@ -30,7 +30,7 @@ export default function Hero() {
                         <li>
                             <Link href="/">
                   <span
-                      className="font-medium text-[18px] text-white select-none lg:text-base hover:text-darkred transition-colors">
+                      className="font-medium text-[18px] text-white select-none lg:text-base hover:text-[#EFAC00] transition-colors">
                     О сервисе
                   </span>
                             </Link>
@@ -38,7 +38,7 @@ export default function Hero() {
                         <li>
                             <Link href="/">
                   <span
-                      className="font-medium text-[18px] text-white select-none lg:text-base hover:text-darkred transition-colors">
+                      className="font-medium text-[18px] text-white select-none lg:text-base hover:text-[#EFAC00] transition-colors">
                     Контакты
                   </span>
                             </Link>

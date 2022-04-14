@@ -8,6 +8,8 @@ import About from "../components/About";
 import Contact from "../components/contact";
 import Footer from "../components/footer";
 import sample from "../public/Waves7.mp4"
+import ForBis from "../components/forBis";
+import ForAuth from "../components/forAuth";
 export default function Home() {
   return (
     <>
@@ -21,6 +23,8 @@ export default function Home() {
         </video>
       <Hero/>
       <About/>
+        <ForBis/>
+        <ForAuth/>
       <Contact/>
       <Footer/>
     </>

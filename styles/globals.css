@@ -27,6 +27,6 @@ video {
 }
 @layer components {
   .container{
-    @apply max-w-[1180px]
+    @apply max-w-[1080px]
   }
 }
